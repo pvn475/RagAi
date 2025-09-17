@@ -1,0 +1,22 @@
+{
+    "cashless_claim_reference_number": "133240817",
+    "date": "10 Aug 2025 11:17",
+    "patient_details": {
+        "patient_name": "Kashmira Pavan Patil",
+        "insurance_company": "Star Health and Allied Insurance Co.Ltd.",
+        "medi_assist_id": "4052760801",
+        "policy_holder": "MAVERIC SYSTEMS LIMITED - BANGALORE",
+        "ip_no": null,
+        "policy_no": "P/110000/01/2025/058719",
+        "primary_beneficiary": "Pavan Yallappa Patil",
+        "employee_id": "1007595",
+        "insurer_claim_no": null,
+        "insurer_member_id": "356382512500103601"
+    },
+    "links": {
+        "provider_portal": "https://provider.ihx.in/?utm_source=claims_mails&utm_medium=email&utm_campaign=claims_mails#/",
+        "member_portal": "https://massist.in/MASIST/qc30uui",
+        "medi_assist_website": "https://www.mediassist.in"
+    },
+    "disclaimer": "The TPA extends the cashless facility subject to the standard terms & conditions of the policy and the information provided in the cashless request form."
+}
